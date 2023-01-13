@@ -1,3 +1,5 @@
 12 Jan 2023
 
-Issue with the code base.. First the flatbutton then exception in Systemchrome module. 
+Issue with the code base.. Some errors . different ones at differnt times..
+And then phone hung sometime. 
+So not prefeerring to use this boiler plate.
